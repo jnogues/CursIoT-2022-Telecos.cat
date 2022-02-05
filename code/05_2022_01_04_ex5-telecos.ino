@@ -11,9 +11,9 @@ BlynkTimer taskScheduler;//organitzador de tasques
 //--------------------------------------------------------------------------------------------------
 
 //------------------ CONFIGURACIÓ ------------------------------------------------------------------
-char auth[] = "IXbmwuklV9Fw0vp6_4lGyMTBqDifjs2h"; //token (super-password) obtingut a l'app del mòbil
-char ssid[] = "viscalaterraP"; //xarxa wifi
-char pass[] = "97A4A6F95697EB30E873"; //password wifi
+char auth[] = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"; //token (super-password) obtingut a l'app del mòbil
+char ssid[] = "xxxxxxxxxxxx"; //xarxa wifi
+char pass[] = "xxxxxxxxxxxx"; //password wifi
 #define led_blau 16  //led blau de la nodeMCU 
 //--------------------------------------------------------------------------------------------------
 
@@ -76,8 +76,8 @@ void toggleLed()
 void upTime()
 {
   //Serial.print("[upT] ");
-  //Serial.println(millis());
-  Serial.printf("[upT] %u \n", millis());//fa el mateix
+  //Serial.println(millis()/1000);
+  Serial.printf("[upT] %u \n", millis()/1000);//fa el mateix
 }
 
 //tasca 3
