@@ -11,9 +11,9 @@ BlynkTimer taskScheduler;//organitzador de tasques
 //--------------------------------------------------------------------------------------------------
 
 //------------------ CONFIGURACIÓ ------------------------------------------------------------------
-char auth[] = "IXbmwuklV9Fw0vp6_4lGyMTBqDifjs2h"; //token (super-password) obtingut a l'app del mòbil
-char ssid[] = "viscalaterraP"; //xarxa wifi
-char pass[] = "97A4A6F95697EB30E873"; //password wifi
+char auth[] = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"; //token (super-password) obtingut a l'app del mòbil
+char ssid[] = "xxxxxxxxxxxxxxxx"; //xarxa wifi
+char pass[] = "xxxxxxxxxxxxxxxx"; //password wifi
 #define led_blau 16  //led blau de la nodeMCU 
 //--------------------------------------------------------------------------------------------------
 
