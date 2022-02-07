@@ -1,4 +1,4 @@
 ## Software i drivers
 
 - [Arduino IDE 1.8.19, versió "Windows zip file"](https://www.arduino.cc/en/software)
-- Drivers USB: [CP210x](https://www.silabs.com/documents/public/software/CP210x_Universal_Windows_Driver.zip), [CH340](https://www-wch-cn.translate.goog/downloads/CH341SER_ZIP.html?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=es&_x_tr_sch=http)
+- Drivers USB: [CP210x](https://www.silabs.com/documents/public/software/CP210x_Universal_Windows_Driver.zip), [CH340](http://www.wch.cn/downloads/file/5.html?time=2022-02-08%2002:45:11&code=226CzhywtaruMGsBkHamr8AuqMJseh21Gj52L5uR)
