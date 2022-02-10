@@ -60,10 +60,8 @@ void setup()
   taskScheduler.setInterval(5001L, analogA0);   //tasca 3
 
   // Servidor de Blynk
-  // IP del servidor privat de blynk del @rprimTech, situat a GRAVELINES (1.393 km), 
-  // França (https://ca.wikipedia.org/wiki/Gravelines)
-  // https://goo.gl/maps/JjtPBqaPQVjfuFYMA
-  Blynk.begin(auth, ssid, pass, IPAddress(51,38,35,12), 8080); 
+  // IP del servidor privat de blynk del @rprimTech
+  Blynk.begin(auth, ssid, pass, IPAddress(5,196,88,155), 8080); 
   
 }
 
