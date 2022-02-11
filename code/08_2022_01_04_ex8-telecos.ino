@@ -50,7 +50,7 @@ void setup()
   delay(500);
   Serial.println(" ");
   Serial.println("telecos.cat");
-  Serial.println("_2022_01_04_ex7-telecos.ino");
+  Serial.println("_2022_01_04_ex8-telecos.ino");
   
   pinMode(0, OUTPUT);
   digitalWrite(0,HIGH);
