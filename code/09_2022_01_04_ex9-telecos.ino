@@ -140,11 +140,3 @@ void checkInputsOutputs()
   prevstateGPIO2=stateGPIO2;
 
 }
-
-//**********Funcions disparades per l'app*************
-BLYNK_CONNECTED() 
-{
-    Blynk.syncAll();
-    Serial.print("[WIFI] Connected to SSID: ");
-    Serial.println(WiFi.SSID());
-}  
