@@ -18,5 +18,7 @@ Repositori Curs IoT 2022 Telecos.cat
 
 ---
 
-## Notes complementaries de la 1a Sessió 17.02.2022
+## Notes complementaries de 2a 1a Sessió 17.02.2022
+
+
 
