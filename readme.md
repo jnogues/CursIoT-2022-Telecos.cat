@@ -15,5 +15,8 @@ Repositori Curs IoT 2022 Telecos.cat
 9. [LLibreria de blynk a utilitzar, 0.6.1](https://github.com/blynkkk/blynk-library/releases/tag/v0.6.1)
 10. [Aplicació de Blynk per Android.](https://github.com/jnogues/CursIoT-2022-Telecos.cat/tree/main/app)
 11. [Pocket IoT, Thingspeak???](https://play.google.com/store/apps/details?id=com.buzsikdev.pocketiot&hl=ca&gl=US)
-12. 
+
+---
+
+## Notes complementaries de la 1a Sessió 17.02.2022
 
