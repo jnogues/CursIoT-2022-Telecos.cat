@@ -14,7 +14,7 @@ Repositori Curs IoT 2022 Telecos.cat
 8. Instal·lar plugin ESP8266 a l'Arduino IDE `https://arduino.esp8266.com/stable/package_esp8266com_index.json `
 9. [LLibreria de blynk a utilitzar, 0.6.1](https://github.com/blynkkk/blynk-library/releases/tag/v0.6.1)
 10. [Aplicació de Blynk per Android.](https://github.com/jnogues/CursIoT-2022-Telecos.cat/tree/main/app)
-11. [Primeres passes amb Blynk App.][(https://github.com/jnogues/CursIoT-2022-Telecos.cat/tree/main/videos)
+11. [Primeres passes amb Blynk App.](https://github.com/jnogues/CursIoT-2022-Telecos.cat/tree/main/videos)
 12. [Pocket IoT, Thingspeak???](https://play.google.com/store/apps/details?id=com.buzsikdev.pocketiot&hl=ca&gl=US)
 
 ---
