@@ -36,6 +36,7 @@ Repositori Curs IoT 2022 Telecos.cat
 jadsa tv](https://youtu.be/HRGQQATYJCQ).
 9. Node-red, [Podcast de ProgramarFacil](https://youtu.be/ZgG-rKLP_XI), [Un loco y su tecnología
 ](https://youtu.be/tiG6DmSvia4).
+10. Instal·lar mosquitto a Windows [Luis Llamas](https://www.luisllamas.es/como-instalar-mosquitto-el-broker-mqtt/)
 
 
 
