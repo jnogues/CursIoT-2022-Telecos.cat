@@ -32,7 +32,10 @@ Repositori Curs IoT 2022 Telecos.cat
 6. Per publicar en un topic: `mosquitto_pub -h 5.196.88.155 -t /kkp2/temperatura -m 23.5`.
 7. Broker públic: `test.mosquitto.org`.
 8. Vídeos d'introducció a Blynk 2.0 [techiesms](https://youtu.be/IKbbvEzZ7wg), [
-jadsa tv](https://youtu.be/HRGQQATYJCQ), 
+jadsa tv](https://youtu.be/HRGQQATYJCQ).
+9. Node-red, [Podcast de ProgramarFacil](https://youtu.be/ZgG-rKLP_XI), [Un loco y su tecnología
+](https://youtu.be/tiG6DmSvia4).
+10. 
 
 
 
