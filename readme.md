@@ -22,5 +22,13 @@ Repositori Curs IoT 2022 Telecos.cat
 
 ## Notes complementaries de 2a Sessió 17.02.2022
 
+1. [Se]()
+2. IP del broker mosquitto del Rambla Prim, 5.196.88.155, port 1883.
+3. Per instl·lar els clients **mosquitto_sub i mosquitto_pub** en LINUX, `sudo apt install mosquitto-clients`.
+4. Per subscriure't a un topic: `mosquitto_sub -v -h 5.196.88.155 -t /kkp2/#`.
+5. Per publicar en un topic: `mosquitto_pub -h 5.196.88.155 -t /kkp2/temperatura -m 23.5`.
+6. Broker públic: est.mosquitto.org`
+7. 
+
 
 
