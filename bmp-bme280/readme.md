@@ -1,4 +1,4 @@
-## Tips and tricks pels senssors BMP/BME280
+## Tips and tricks pels sensors BMP/BME280
 
 Al comprar aquests sensors mai sabem si ens enviaran un o l'altre. Per això aquó proposo un flux de treball per comprovar-ho.
 
