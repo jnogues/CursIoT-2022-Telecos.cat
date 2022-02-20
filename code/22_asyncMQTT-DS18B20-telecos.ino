@@ -153,7 +153,6 @@ void checkInputsOutputs()
 // tasca 5
 void publishState()
 {
-   Serial.println(temperatureDS);
    String payload = "";
    StaticJsonDocument<300> jsonDoc;
    jsonDoc["id"]    = IDdevice;
