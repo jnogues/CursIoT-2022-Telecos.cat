@@ -95,6 +95,9 @@ void setup() {
   mqttClient.onMessage(onMqttMessage);
   mqttClient.onPublish(onMqttPublish);
   mqttClient.setServer(MQTT_HOST, MQTT_PORT);
+  
+  //per broker amb ususari-password
+  //mqttClient.setCredentials("usuariMQTT", "passwordMQTT");
 
   // Connectem al Wifi
   connectToWifi();
